@@ -29,11 +29,10 @@ This project is a simple login and quiz application built using Java Swing. The 
    - If the username and password match the predefined account (`user` / `password`), you will be logged in.
    - If you do not have an account, you can create one by clicking on the "Create Account" button.
    - Newly created accounts are stored in a HashMap.
-     ![Cricket Quiz Screenshot](images/Screenshot 2024-12-08 201947.png)
-     ![Cricket Quiz Screenshot](images/Screenshot 2024-12-08 201959.png)
-     ![Cricket Quiz Screenshot](images/Screenshot 2024-12-08 201006.png)
-
-
+  
+ ![Screenshot 2024-12-08 201959](https://github.com/user-attachments/assets/0b3f00b5-545a-4eeb-8eb5-cf1711c76494)
+![Screenshot 2024-12-08 201947](https://github.com/user-attachments/assets/2eeceff9-ccf0-4308-ba8f-0fa43296fc68)
+![Screenshot 2024-12-08 202006](https://github.com/user-attachments/assets/9713715a-48b2-4cfd-9cd9-5ffc7fbb18e1)
 
 
 2. **MCQ Page**:
@@ -41,8 +40,11 @@ This project is a simple login and quiz application built using Java Swing. The 
    - The quiz contains 5 multiple-choice questions.
    - Each question has three answer options.
    - Users can select their answers using radio buttons.
-![Cricket Quiz Screenshot](images/Screenshot 2024-12-08 201025.png)
-![Cricket Quiz Screenshot](images/Screenshot 2024-12-08 201037.png)
+
+![Screenshot 2024-12-08 202025](https://github.com/user-attachments/assets/173f1d4b-54df-41ed-8f8a-1f117074e935)
+![Screenshot 2024-12-08 202037](https://github.com/user-attachments/assets/91df6a02-2f08-4f90-8ffc-9de50b89a6fd)
+
+
 ### Account Creation:
 - Users can create a new account by entering a **username** and **password**.
 - If the username is already taken, an error message is displayed.
