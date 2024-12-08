@@ -29,13 +29,20 @@ This project is a simple login and quiz application built using Java Swing. The 
    - If the username and password match the predefined account (`user` / `password`), you will be logged in.
    - If you do not have an account, you can create one by clicking on the "Create Account" button.
    - Newly created accounts are stored in a HashMap.
+     ![Cricket Quiz Screenshot](images/Screenshot 2024-12-08 201947.png)
+     ![Cricket Quiz Screenshot](images/Screenshot 2024-12-08 201959.png)
+     ![Cricket Quiz Screenshot](images/Screenshot 2024-12-08 201006.png)
+
+
+
 
 2. **MCQ Page**:
    - After successful login, you will be redirected to the quiz page.
    - The quiz contains 5 multiple-choice questions.
    - Each question has three answer options.
    - Users can select their answers using radio buttons.
-
+![Cricket Quiz Screenshot](images/Screenshot 2024-12-08 201025.png)
+![Cricket Quiz Screenshot](images/Screenshot 2024-12-08 201037.png)
 ### Account Creation:
 - Users can create a new account by entering a **username** and **password**.
 - If the username is already taken, an error message is displayed.
