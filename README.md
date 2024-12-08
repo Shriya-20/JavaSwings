@@ -30,8 +30,8 @@ This project is a simple login and quiz application built using Java Swing. The 
    - If you do not have an account, you can create one by clicking on the "Create Account" button.
    - Newly created accounts are stored in a HashMap.
   
- ![Screenshot 2024-12-08 201959](https://github.com/user-attachments/assets/0b3f00b5-545a-4eeb-8eb5-cf1711c76494)
 ![Screenshot 2024-12-08 201947](https://github.com/user-attachments/assets/2eeceff9-ccf0-4308-ba8f-0fa43296fc68)
+![image](https://github.com/user-attachments/assets/51e3fbfd-81a5-4796-aaaa-96412700b7cb)
 ![Screenshot 2024-12-08 202006](https://github.com/user-attachments/assets/9713715a-48b2-4cfd-9cd9-5ffc7fbb18e1)
 
 
